@@ -4,7 +4,7 @@ This script will convert a .txt file into an .mp3 file read by Google's Text-to-
 
 ## Installation
 
-For this script to work, you must have th following tools isntalled:
+For this script to work, you must have the following tools installed:
 
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/downloads-versioned-archives)
 - [FFMPEG](https://www.ffmpeg.org/download.html)
