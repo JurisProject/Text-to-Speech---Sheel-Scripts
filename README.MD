@@ -6,12 +6,12 @@ This script will convert a .txt file into an .mp3 file read by Google's Text-to-
 
 For this script to work, you must have th following tools isntalled:
 
-- [https://cloud.google.com/sdk/docs/downloads-versioned-archives](Google Cloud SDK)
-- [https://www.ffmpeg.org/download.html](FFMPEG)
+- [Google Cloud SDK](https://cloud.google.com/sdk/docs/downloads-versioned-archives)
+- [FFMPEG](https://www.ffmpeg.org/download.html)
 
 ## Connecting to your Google Cloud Account
 
-You will need to have an active Google Cloud Account with the Text-to-Speech API enabled and an appropriate Service Account Key. You can set this up per [https://cloud.google.com/text-to-speech/docs/quickstart-protocol](these instructions).
+You will need to have an active Google Cloud Account with the Text-to-Speech API enabled and an appropriate Service Account Key. You can set this up per [these instructions](https://cloud.google.com/text-to-speech/docs/quickstart-protocol).
 
 Save the `.json` file of your credentials to the root of this directory with the name `credentials.json`.
 
